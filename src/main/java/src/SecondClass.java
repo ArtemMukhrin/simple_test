@@ -6,6 +6,8 @@ public class SecondClass {
 
         //dfsdfsdklfhjsdjkghvsdfjkhvkjdfhg
 
+        System.out.println("how are you");
+
     }
 
 }

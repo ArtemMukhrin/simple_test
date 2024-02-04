@@ -8,7 +8,6 @@ import java.util.UUID;
  * @author art
  */
 public class SimpleServiceImpl implements SimpleService{
-
   @Override
   public String getPage(UUID userId) {
     return String.valueOf("Hello World");

@@ -8,7 +8,5 @@ import java.util.UUID;
  * @author art
  */
 public interface SimpleController {
-
   String getPage(UUID userId);
-
 }

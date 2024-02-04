@@ -11,6 +11,6 @@ public class SimpleServiceImpl implements SimpleService{
 
   @Override
   public String getPage(UUID userId) {
-    return null;
+    return String.valueOf("Hello World");
   }
 }

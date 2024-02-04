@@ -11,6 +11,6 @@ public class SimpleControllerImpl implements SimpleController{
 
   @Override
   public String getPage(UUID userId) {
-    return null;
+    return String.valueOf("Hello World");
   }
 }
